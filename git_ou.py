@@ -10,4 +10,11 @@ for i in range(100):
 
 for i in range(100)
 	print('不积溪流无以成江海'）
+<<<<<<< HEAD
 print("what")
+=======
+
+
+for i in range(100):
+	print('hello')
+>>>>>>> 3e74a7a9b39a1ec3c8325d6f03756f7ff32bda31
